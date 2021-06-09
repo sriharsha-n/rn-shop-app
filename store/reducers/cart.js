@@ -69,9 +69,6 @@ export default (state = initialState, action) => {
         items: updatedItems,
         totalAmount: state.totalAmount - itemTotal
       };
-
-    default:
-      return state;
   }
 
   return state;
