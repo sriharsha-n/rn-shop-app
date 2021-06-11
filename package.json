@@ -8,9 +8,11 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.5",
     "@react-navigation/native": "^5.9.4",
     "expo": "^40.0.0",
     "expo-app-loading": "^1.0.3",
+    "expo-linear-gradient": "^9.1.0",
     "expo-status-bar": "~1.0.3",
     "moment": "^2.29.1",
     "react": "16.13.1",
@@ -21,6 +23,7 @@
     "react-native-screens": "^3.3.0",
     "react-native-web": "~0.13.12",
     "react-navigation": "^4.4.4",
+    "react-navigation-animated-switch-navigator": "^0.1.0",
     "react-navigation-drawer": "^2.7.1",
     "react-navigation-header-buttons": "^7.0.1",
     "react-navigation-stack": "^2.10.4",
